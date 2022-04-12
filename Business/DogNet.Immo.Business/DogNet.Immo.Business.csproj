@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\DogNet.Immo.Data\DogNet.Immo.Data.csproj" />
+    <ProjectReference Include="..\..\DogNet.Immo.Core\DogNet.Immo.Core.csproj" />
+  </ItemGroup>
+
+</Project>
